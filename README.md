@@ -32,5 +32,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adarshgupta404&" alt="adarshgupta404" /></p>
 <p align = "center">
-<img align="center" alt="karna" width="400" src="https://giphy.com/gifs/13HgwGsXF0aiGY">
+<img align="center" alt="karna" width="400" src="(https://c.tenor.com/77IymeWcaBgAAAAC/coding-programming.gif)">
 </p>
