@@ -15,6 +15,8 @@
 
 - ⚡ Fun fact **Anime Fan XD**
 
+<img align="center" alt="karna" width="400" src="(https://c.tenor.com/77IymeWcaBgAAAAC/coding-programming.gif)">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/adarsh-gupta-975312220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adarsh-gupta-975312220/" height="30" width="40" /></a>
@@ -31,6 +33,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adarshgupta404&show_icons=true&locale=en" alt="adarshgupta404" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adarshgupta404&" alt="adarshgupta404" /></p>
-<p align = "center">
-<img align="center" alt="karna" width="400" src="(https://c.tenor.com/77IymeWcaBgAAAAC/coding-programming.gif)">
-</p>
+
