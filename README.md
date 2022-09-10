@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adarsh Gupta!</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 <p align = "center">
-<img align="center" alt="karna" width="300" src="https://c.tenor.com/_NwgiatHRNsAAAAC/karna-fate.gif">
+<img align="center" alt="karna" width="500" src="https://c.tenor.com/_NwgiatHRNsAAAAC/karna-fate.gif">
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarshgupta404&label=Profile%20views&color=0e75b6&style=flat" alt="adarshgupta404" /> </p>
 
