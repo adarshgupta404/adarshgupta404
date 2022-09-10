@@ -3,7 +3,6 @@
 <p align = "center">
 <img align="center" alt="karna" width="400" src="https://c.tenor.com/_NwgiatHRNsAAAAC/karna-fate.gif">
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adarshgupta404&label=Profile%20views&color=0e75b6&style=flat" alt="adarshgupta404" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adarshgupta404" alt="adarshgupta404" /></a> </p>
 
@@ -14,6 +13,7 @@
 - 📫 How to reach me **gadarsh747@gmail.com**
 
 - ⚡ Fun fact **Anime Fan XD**
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=adarshgupta404&label=Profile%20views&color=0e75b6&style=flat" alt="adarshgupta404" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
