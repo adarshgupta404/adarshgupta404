@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **Anime Fan XD**
 
-<img align="center" alt="karna" width="400" src="(https://c.tenor.com/77IymeWcaBgAAAAC/coding-programming.gif)">
+<img align="center" alt="karna" width="400" src="https://c.tenor.com/77IymeWcaBgAAAAC/coding-programming.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
