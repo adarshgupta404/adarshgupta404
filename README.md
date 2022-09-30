@@ -35,7 +35,7 @@
   <img align="center" alt="karna" width="400" src="https://c.tenor.com/77IymeWcaBgAAAAC/coding-programming.gif">
 </p>
 <style>
-p{
+img{
 background-color:06283D;
 }
 </style>
