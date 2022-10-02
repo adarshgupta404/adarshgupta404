@@ -4,7 +4,7 @@
 <img align="center" alt="karna" width="400" src="https://c.tenor.com/_NwgiatHRNsAAAAC/karna-fate.gif">
 </p>
 
-<p align="center" text-align="center"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=adarshgupta404&theme=onedark" alt="adarshgupta404" /></a> </p>
+<p><img src="https://github-profile-trophy.vercel.app/?username=adarshgupta404&theme=onedark" alt="adarshgupta404" /></p>
 
 - 🌱 I’m currently learning **full-stack webdevelopment**
 
