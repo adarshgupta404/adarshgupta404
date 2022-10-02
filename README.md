@@ -4,7 +4,7 @@
 <img align="center" alt="karna" width="400" src="https://c.tenor.com/_NwgiatHRNsAAAAC/karna-fate.gif">
 </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adarshgupta404" alt="adarshgupta404" /></a> </p>
+<p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark"><img src="https://github-profile-trophy.vercel.app/?username=adarshgupta404" alt="adarshgupta404" /></a> </p>
 
 - 🌱 I’m currently learning **full-stack webdevelopment**
 
