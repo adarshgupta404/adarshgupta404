@@ -31,7 +31,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adarshgupta404&show_icons=true&locale=en&theme=onedark" alt="adarshgupta404" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adarshgupta404&theme=onedark" alt="adarshgupta404" /></p>
-<p align = "center">
   <img align="center" alt="karna" width="400" src="https://c.tenor.com/77IymeWcaBgAAAAC/coding-programming.gif">
 </p>
