@@ -3,7 +3,7 @@
 <p align = "center">
 <img align="center" alt="karna" width="400" src="https://c.tenor.com/_NwgiatHRNsAAAAC/karna-fate.gif">
 </p>
-[![@adarshgupta404's Holopin board](https://holopin.me/adarshgupta404)](https://holopin.io/@adarshgupta404)
+
 <p align="center"><img src="https://holopin.me/adarshgupta404" alt="adarshgupta404" /></p>
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=adarshgupta404&theme=onedark" alt="adarshgupta404" /></p>
