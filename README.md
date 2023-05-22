@@ -49,7 +49,9 @@
 </div>
 
 ###
+<img src="https://raw.githubusercontent.com/adarshgupta404/adarshgupta404/output/snake.svg" alt="Snake animation" />
 
+###
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adarshgupta404&show_icons=true&locale=en&theme=onedark" alt="adarshgupta404" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adarshgupta404&theme=onedark" alt="adarshgupta404" /></p>
 <p align = "center">
